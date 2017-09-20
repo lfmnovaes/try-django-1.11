@@ -1,0 +1,303 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pre_sav",
+				"pre_save_post_receiver"
+			],
+			[
+				"upload",
+				"upload_location"
+			],
+			[
+				"he",
+				"height_field"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"auton",
+				"auto_now_add"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Luis/Dev/trydjango1-11",
+		"/C/Users/Luis/Dev/trydjango1-11/src",
+		"/C/Users/Luis/Dev/trydjango1-11/src/muypicky"
+	],
+	"file_history":
+	[
+		"/C/Users/Luis/Envs/problema2/src/vuln/models.py",
+		"/C/Users/Luis/Envs/problema2/src/vuln/views.py",
+		"/C/Users/Luis/Envs/problema2/src/theme/templates/home.html",
+		"/C/Users/Luis/Envs/problema2/src/theme/templates/base.html",
+		"/C/Users/Luis/Envs/problema2/.gitignore",
+		"/C/Users/Luis/Envs/problema2/requirements.txt",
+		"/C/Users/Luis/Envs/problema2/src/vuln/templates/vuln/home.html",
+		"/C/Users/Luis/Envs/problema2/src/vuln/templates/vuln/vuln_view.html",
+		"/C/Users/Luis/Envs/problema2/src/vuln/admin.py",
+		"/C/Users/Luis/Envs/problema2/src/vuln/templates/vuln/vuln_form.html",
+		"/C/Users/Luis/Envs/problema2/src/vuln/templates/vuln/nav.html",
+		"/C/Users/Luis/Envs/problema2/src/vuln/templates/vuln/vuln_confirm_delete.html",
+		"/C/Users/Luis/Envs/problema2/src/vuln/templates/vuln/review_form.html",
+		"/C/Users/Luis/Envs/problema2/src/vuln/templates/vuln/review_confirm_delete.html",
+		"/C/Users/Luis/Envs/problema2/src/apps/urls.py",
+		"/C/Users/Luis/Envs/problema2/src/vuln/urls.py",
+		"/C/Users/Luis/Envs/problema2/src/apps/settings.py",
+		"/C/Users/Luis/Envs/problema2/src/vuln/templates/vuln/book_confirm_delete.html",
+		"/C/Users/Luis/Envs/problema2/src/vuln/templates/vuln/book_form.html",
+		"/C/Users/Luis/Envs/problema2/src/vuln/templates/vuln/book_view.html",
+		"/C/Users/Luis/Envs/problema2/src/vuln/migrations/0001_initial.py",
+		"/C/Users/Luis/Envs/problema2/src/vuln/migrations/0002_review.py",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view/models.py",
+		"/C/Users/Luis/Envs/problema2/src/db.sqlite3",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view/templates/books_pc_multi_view/review_confirm_delete.html",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view/templates/books_pc_multi_view/review_form.html",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view/urls.py",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view/views.py",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view2/admin.py",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view2/migrations/0001_initial.py",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view2/models.py",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view2/templates/books_pc_multi_view2/book_confirm_delete.html",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view2/templates/books_pc_multi_view2/book_form.html",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view2/templates/books_pc_multi_view2/book_view.html",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view2/templates/books_pc_multi_view2/home.html",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view2/templates/books_pc_multi_view2/nav.html",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view2/templates/books_pc_multi_view2/person_confirm_delete.html",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view2/templates/books_pc_multi_view2/person_form.html",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view2/templates/books_pc_multi_view2/review_confirm_delete.html",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view2/templates/books_pc_multi_view2/review_form.html",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view2/urls.py",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view2/views.py",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view/templates/books_pc_multi_view/nav.html",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view/templates/books_pc_multi_view/home.html",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view/templates/books_pc_multi_view/book_view.html",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view/templates/books_pc_multi_view/book_form.html",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view/templates/books_pc_multi_view/book_confirm_delete.html",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view/migrations/0002_review.py",
+		"/C/Users/Luis/Envs/problema2/src/books_pc_multi_view/admin.py",
+		"/C/Users/Luis/Envs/problem2/src/templates/post_list.html",
+		"/C/Users/Luis/Envs/problem2/src/templates/post_detail.html",
+		"/C/Users/Luis/Envs/problem2/src/posts/models.py",
+		"/C/Users/Luis/Envs/problem2/Lib/site-packages/django/contrib/auth/locale/lt/LC_MESSAGES/django.mo",
+		"/C/Users/Luis/Envs/problem2/src/db2.sqlite3",
+		"/C/Users/Luis/Envs/problem2/src/problem2/settings.py",
+		"/C/Users/Luis/Envs/problem2/src/problem2/urls.py",
+		"/C/Users/Luis/Envs/problem2/src/problem2/wsgi.py",
+		"/C/Users/Luis/Envs/problem2/Lib/site-packages/django/conf/project_template/project_name/urls.py-tpl",
+		"/C/Users/Luis/Envs/problem2/Lib/site-packages/django/contrib/auth/locale/lt/LC_MESSAGES/django.po",
+		"/C/Users/Luis/Envs/problem2/Lib/site-packages/django/contrib/staticfiles/storage.py",
+		"/C/Users/Luis/Envs/problem2/Lib/site-packages/django/db/migrations/graph.py",
+		"/C/Users/Luis/Envs/problem2/Lib/site-packages/django/http/response.py",
+		"/C/Users/Luis/Envs/problem2/Lib/site-packages/django/utils/feedgenerator.py",
+		"/C/Users/Luis/Envs/problem2/Lib/site-packages/django/utils/jslex.py",
+		"/C/Users/Luis/Envs/problem2/Lib/site-packages/django/utils/timesince.py",
+		"/C/Users/Luis/Envs/problem2/Lib/site-packages/django/utils/translation/trans_real.py",
+		"/C/Users/Luis/Envs/problem2/Lib/site-packages/PIL/OleFileIO-README.md",
+		"/C/Users/Luis/Envs/problem2/README.md",
+		"/C/Users/Luis/Envs/problem2/src/blog/settings.py",
+		"/C/Users/Luis/Envs/problem2/src/blog/urls.py",
+		"/C/Users/Luis/Envs/problem2/src/blog/wsgi.py",
+		"/C/Users/Luis/Envs/problem2/src/manage.py",
+		"/C/Users/Luis/Envs/problem2/src/templates/base.html",
+		"/C/Users/Luis/Envs/problem2/src/static/css/base.css",
+		"/C/Users/Luis/Envs/problem2/src/comments/admin.py",
+		"/C/Users/Luis/Envs/draft2/draft2.sublime-project",
+		"/C/Users/Luis/Envs/trydjango19/src/posts/models.py",
+		"/C/Users/Luis/Envs/trydjango19/src/posts/views.py",
+		"/C/Users/Luis/Envs/trydjango19/src/templates/base.html",
+		"/C/Users/Luis/Envs/trydjango19/src/posts/urls.py",
+		"/C/Users/Luis/Envs/trydjango19/src/templates/post_form.html",
+		"/C/Users/Luis/Envs/trydjango19/src/templates/post_list.html",
+		"/C/Users/Luis/Envs/trydjango19/src/posts/templatetags/urlify.py",
+		"/C/Users/Luis/Envs/trydjango19/src/templates/post_detail.html",
+		"/C/Users/Luis/Envs/trydjango19/src/posts/forms.py",
+		"/C/Users/Luis/Envs/trydjango19/src/trydjango19/settings.py",
+		"/C/Users/Luis/Envs/trydjango19/src/static/css/base.css",
+		"/C/Users/Luis/Envs/trydjango19/src/posts/templatetags/__init__.py",
+		"/C/Users/Luis/Envs/trydjango19/src/trydjango19/urls.py",
+		"/C/Users/Luis/Envs/trydjango19/src/templates/messages_display.html",
+		"/C/Users/Luis/Envs/trydjango19/src/templates/index.html",
+		"/C/Users/Luis/Envs/trydjango19/src/posts/admin.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Luis\\Envs\\problema2\\src\\vuln",
+			"C:\\Users\\Luis\\Envs\\problema2\\src",
+			"C:\\Users\\Luis\\Envs\\problem2"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Review",
+			"book",
+			"books_pc_multi_view",
+			"div",
+			"blog",
+			"id",
+			"beach",
+			"\">\n",
+			"update",
+			"post_delete",
+			"timestamp",
+			")\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"vuln",
+			"problem2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "muypicky.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
